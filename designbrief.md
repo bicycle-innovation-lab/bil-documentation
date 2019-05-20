@@ -18,5 +18,6 @@ Bicycle innovation lab would like a system, which makes it easier to administrat
 Make it possible to loan out bikes to other business. Therefore, that business can use those bikes to loan out for their employees. 
 
 Members of the bicycle library or employees in a business library should be able to use a simple app that gives them an engaging presentation of all the bikes. the process from browsing and booking a bike should be as fast and engaging as possible, so the users spends less time placing a booking and more time on a bike.
+The admins also should be able to make project and to have members of the association(forening) be able to reserve/sign up for those projects.
 
 Generally the system should be *fast*, *user friendly*, *engaging* and have good *SEO*
