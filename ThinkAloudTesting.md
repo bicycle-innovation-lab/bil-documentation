@@ -28,8 +28,8 @@
     Make the user navigate to the bike page and then to edit a bike
     Test Edit Bike Information -
                                  Name: Ridley.
-                                 price: 400,00 kr.
                                  Description: It is another type of bike.
+                                 price: 400,00 kr.
                                  discount: 40%.
                                  kategory: bike
 ## 6.	 Edit project:
