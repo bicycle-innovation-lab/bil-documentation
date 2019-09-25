@@ -17,11 +17,11 @@
 ## 3.	 Edit user:
     Make the user navigate back to the user page to make him edit the user
     Test Edit User Information -
-                                First Name: Jack.
-                                Last Name: Jacksen.
-                                Email: Jack@Jacksen.com.
-                                Tlf: 11223344.
-                                role: manager.
+                                 First Name: Jack.
+                                 Last Name: Jacksen.
+                                 Email: Jack@Jacksen.com.
+                                 Tlf: 11223344.
+                                 role: manager.
 ## 4.	 Make project:
     Make the user navigate to the project page, then make a project
 ## 5.	 Edit bike:
